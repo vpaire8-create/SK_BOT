@@ -1,11 +1,11 @@
 {
-  "BOTNAME": "🩷𓆩๛⃝𝗠𝐚ɴ❍𓆪𓆤",
+  "BOTNAME": "🩷𓆩B❍T𓆪𓆤",
   "PREFIX": ".",
   "ADMINBOT": [
-    "100009012838085"
+    "61572438990883"
   ],
   "PREFIX_ENABLED": true,
-  "REACT_DELETE_EMOJI": "😡",
+  "REACT_DELETE_EMOJI": "😘",
   "ADMIN_ONLY_MODE": false,
   "APPROVE_ONLY": false,
   "GLOBAL_COOLDOWN": 5,
